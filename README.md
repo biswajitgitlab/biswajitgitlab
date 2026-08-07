@@ -60,9 +60,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <!-- Replace 'your-username' with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Streak" width="48%" />
+  <!-- Replace 'biswajitgitlab' with your actual GitHub username -->
+  <img src="https://github-stats-extended.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=biswajitgitlab&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -83,6 +83,6 @@
 
 <p align="center">
   <i>Profile Views:</i><br>
-  <!-- Replace 'your-username' with your actual GitHub username -->
-  <img src="https://profile-counter.glitch.me/biswajitgitlab/count.svg" alt="Profile Views"/>
+  <!-- Replace 'biswajitgitlab' with your actual GitHub username -->
+  <img src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
