@@ -1,9 +1,9 @@
 <!-- 
-  ╔══════════════════════════════════════════════════════════════════════════╗
+  ╔═════════════════════════════════════════════════════════════════════════╗
   ║  PREMIUM DARK-THEMED GITHUB PROFILE README                               ║
-  ║  AI Automation Engineer & Full-Stack Developer Portfolio                   ║
+  ║  AI Automation Engineer & Full-Stack Developer Portfolio                 ║
   ║  Color Scheme: Deep Navy (#0D1117) | Electric Blue (#2196F3) | Coral (#FF6D5A) ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
+  ╚═════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
@@ -26,19 +26,20 @@
         <table width="100%" bgcolor="#0D1117" cellpadding="20" cellspacing="0" border="0">
           <tr>
             <td align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20an%20AI%20Automation%20Engineer;Full%20Stack%20Developer;Building%20AI%20Agents%20with%20n8n%20%26%20Python;RAG%20%7C%20Ollama%20%7C%20LLM%20Orchestration;Automate%20Everything%20%F0%9F%A4%96" alt="Typing Animation" />
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Biswajit+Pal;AI+Automation+Engineer;Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
               <br><br>
               <!-- Spotify-style Now Coding Badge -->
               <table bgcolor="#161B22" cellpadding="10" cellspacing="0" border="0">
                 <tr>
                   <td>
-                    <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20Now%20Coding-1DB954?style=for-the-badge&labelColor=0D1117&color=2196F3" alt="Now Coding" />
-                  </td>
-                  <td>
-                    <img src="https://img.shields.io/badge/%E2%9A%A1%20Python%20%7C%20n8n%20%7C%20Ollama-FF6D5A?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" />
+                    <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20Now%20Coding-Python%20|%20n8n%20|%20Ollama-FF6D5A?style=for-the-badge&labelColor=0D1117" alt="Now Coding" />
                   </td>
                 </tr>
               </table>
+              <br>
+              <a href="https://github.com/biswajitgitlab?tab=repositories">
+                <img src="https://img.shields.io/badge/Explore%20My%20Projects-2196F3?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore Projects" />
+              </a>
             </td>
           </tr>
         </table>
@@ -49,9 +50,20 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME — Emoji bullet points + Side-by-side with Top Languages            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+---
+
+## 📑 Quick Navigation
+- [👨‍💻 About Me](#about-me)
+- [🛠️ Tech Stack](#tech-stack--tools)
+- [🚀 Featured Projects](#featured-projects)
+- [📈 GitHub Stats](#github-stats)
+- [📫 Connect With Me](#lets-connect)
+
+---
+
+<br>
+
+<!-- ABOUT ME — Emoji bullet points + Side-by-side with Top Languages -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/👨‍💻-About%20Me-2196F3?style=for-the-badge&labelColor=0D1117" alt="About Me" />
@@ -62,9 +74,10 @@
     <td width="58%" valign="top">
       <b>🎯 Profession:</b> AI Automation Engineer & Full-Stack Developer<br><br>
       <b>🚀 Focus:</b> Crafting intelligent AI agents, automating workflows with n8n, and deploying local LLMs via Ollama & RAG.<br><br>
-      <b>💼 Background:</b> Rooted in PHP/Laravel development; evolving expertise into Python-driven AI automation.<br><br>
-      <b>📚 Currently Learning:</b> Deepening mastery in AI Agent orchestration and scalable cloud architectures (AWS).<br><br>
-      <b>⚡ Fun Fact:</b> My automation paradox: I automate things to free up time, only to spend that time automating *more* things! 🤖
+      <b>💼 Background:</b> Started with PHP/Laravel development; now specializing in Python-driven AI automation and enterprise solutions.<br><br>
+      <b>📚 Currently Learning:</b> Advanced AI Agent orchestration, scalable cloud architectures (AWS), and LLM fine-tuning.<br><br>
+      <b>⚡ Fun Fact:</b> I automate things to free up time, only to spend that time automating *more* things! 🤖<br><br>
+      <b>💬 Ask me about:</b> AI agents, n8n workflows, RAG systems, Python backends, Laravel, or automation strategies.
     </td>
     <td width="4%"></td>
     <td width="38%" valign="top" align="center">
@@ -75,9 +88,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK — 3-Column Visual Cards with Skill Icons                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK — 3-Column Visual Cards with Skill Icons -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/🛠️-Tech%20Stack%20%26%20Tools-2196F3?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" />
@@ -91,10 +102,11 @@
         <tr>
           <td align="center">
             <h4>💻 Languages & Frameworks</h4>
-            <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,html,css,bootstrap,tailwind&theme=dark&perline=3" alt="💻 Languages & Frameworks" />
+            <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,html,css,bootstrap,tailwind&theme=dark&perline=3" alt="Languages & Frameworks" />
             <br><br>
             <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
             <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+            <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
           </td>
         </tr>
       </table>
@@ -106,12 +118,11 @@
         <tr>
           <td align="center">
             <h4>🤖 AI & Automation</h4>
-            <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark&perline=3" alt="🤖 AI & Automation" />
+            <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark&perline=3" alt="AI & Automation" />
             <br><br>
             <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
             <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
             <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-square&logo=robot&logoColor=white" alt="RAG" />
-            <img src="https://img.shields.io/badge/AI%20Agents-FF9900?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
             <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
           </td>
         </tr>
@@ -124,7 +135,7 @@
         <tr>
           <td align="center">
             <h4>☁️ DevOps, Testing & DBs</h4>
-            <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,nginx,githubactions&theme=dark&perline=3" alt="☁️ DevOps, Testing & DBs" />
+            <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,nginx,githubactions&theme=dark&perline=3" alt="DevOps, Testing & DBs" />
             <br><br>
             <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
             <img src="https://img.shields.io/badge/PHPUnit-8892BF?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
@@ -138,9 +149,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS — Mockup placeholders + Tech tags + Live demo links       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS — Real projects + Tech tags + Demo links -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/🚀-Featured%20Projects-FF6D5A?style=for-the-badge&labelColor=0D1117" alt="Featured Projects" />
@@ -152,22 +161,20 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/2196F3?text=%F0%9F%A4%96+AI+Workflow+System&font=roboto" width="100%" alt="🤖 AI Automated Workflow System" />
+            <img src="https://ghchart.riles.io/2196F3/biswajitgitlab" width="100%" alt="AI Workflow System" />
           </td>
         </tr>
         <tr>
           <td cellpadding="15">
             <h4>🤖 AI Automated Workflow System</h4>
-            <p>Intelligent data extraction and processing pipeline built with n8n, Python, and Ollama for end-to-end automation.</p>
+            <p><strong>Intelligent data extraction and processing</strong> pipeline built with n8n, Python, and Ollama for end-to-end automation of repetitive tasks.</p>
             <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+              <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
             </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code" />
+            <a href="https://github.com/biswajitgitlab">
+              <img src="https://img.shields.io/badge/📂%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View Code" />
             </a>
           </td>
         </tr>
@@ -178,22 +185,20 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/FF6D5A?text=%F0%9F%93%84+RAG+Document+Chatbot&font=roboto" width="100%" alt="📄 RAG Document AI Chatbot" />
+            <img src="https://ghchart.riles.io/FF6D5A/biswajitgitlab" width="100%" alt="RAG Document Chatbot" />
           </td>
         </tr>
         <tr>
           <td cellpadding="15">
             <h4>📄 RAG Document AI Chatbot</h4>
-            <p>Secure, private document querying using local LLMs with retrieval-augmented generation and vector storage.</p>
+            <p><strong>Secure, private document querying</strong> using local LLMs with retrieval-augmented generation and advanced vector storage for enterprise confidentiality.</p>
             <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-square&logo=robot&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-square&logo=robot&logoColor=white" alt="RAG" />
+              <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
             </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code" />
+            <a href="https://github.com/biswajitgitlab">
+              <img src="https://img.shields.io/badge/📂%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View Code" />
             </a>
           </td>
         </tr>
@@ -206,22 +211,20 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/2196F3?text=%F0%9F%8C%90+Laravel+Full+Stack+App&font=roboto" width="100%" alt="🌐 Full Stack Laravel Application" />
+            <img src="https://ghchart.riles.io/2196F3/biswajitgitlab" width="100%" alt="Laravel Full Stack App" />
           </td>
         </tr>
         <tr>
           <td cellpadding="15">
             <h4>🌐 Full Stack Laravel Application</h4>
-            <p>Production-ready web application with automated end-to-end testing utilizing Playwright and CI/CD pipelines.</p>
+            <p><strong>Production-ready web application</strong> with automated end-to-end testing utilizing Playwright and GitHub Actions CI/CD pipelines for continuous delivery.</p>
             <p>
-              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+              <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
             </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code" />
+            <a href="https://github.com/biswajitgitlab">
+              <img src="https://img.shields.io/badge/📂%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View Code" />
             </a>
           </td>
         </tr>
@@ -232,22 +235,20 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/FF6D5A?text=%F0%9F%90%B3+AI+Agent+Orchestration&font=roboto" width="100%" alt="🐳 Containerized AI Agent Orchestration" />
+            <img src="https://ghchart.riles.io/FF6D5A/biswajitgitlab" width="100%" alt="AI Agent Orchestration" />
           </td>
         </tr>
         <tr>
           <td cellpadding="15">
             <h4>🐳 Containerized AI Agent Orchestration</h4>
-            <p>Scalable multi-agent system integrating Docker, MySQL, and AWS for enterprise-grade data operations.</p>
+            <p><strong>Scalable multi-agent system</strong> integrating Docker, MySQL, and AWS for enterprise-grade data operations and workflow automation at scale.</p>
             <p>
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+              <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
             </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code" />
+            <a href="https://github.com/biswajitgitlab">
+              <img src="https://img.shields.io/badge/📂%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View Code" />
             </a>
           </td>
         </tr>
@@ -258,9 +259,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS — Side-by-side with rounded corners                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS — Side-by-side with rounded corners -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/📈-GitHub%20Stats-2196F3?style=for-the-badge&labelColor=0D1117" alt="GitHub Stats" />
@@ -271,7 +270,7 @@
     <tr>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://ghrs.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=2196F3&border_radius=12&rank_icon=github" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=FF6D5A&border_radius=10" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="4%"></td>
@@ -285,12 +284,11 @@
 </div>
 
 <br>
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE ANIMATION                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/🐍-Contribution%20Snake-2196F3?style=for-the-badge&labelColor=0D1117" alt="Contribution Snake" />
+  <img src="https://img.shields.io/badge/🐍-Contribution%20Graph-2196F3?style=for-the-badge&labelColor=0D1117" alt="Contribution Snake" />
 </h3>
 
 <div align="center">
@@ -302,29 +300,57 @@
 </div>
 
 <br>
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT — Social icons in centered row                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- EXPERTISE AREAS -->
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/⚡-Expertise%20Areas-FF6D5A?style=for-the-badge&labelColor=0D1117" alt="Expertise" />
+</h3>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h4>🤖 AI & ML</h4>
+      <p>LLM Integration, RAG Systems, AI Agents, LangChain, Prompt Engineering</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🔄 Automation</h4>
+      <p>n8n Workflows, Task Automation, Process Optimization, Integration Development</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🔧 Backend</h4>
+      <p>Python APIs, PHP/Laravel, FastAPI, Flask, RESTful Services, Database Design</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>☁️ DevOps</h4>
+      <p>Docker, AWS, CI/CD, GitHub Actions, Linux, Nginx, Container Orchestration</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- CONNECT — Social icons in centered row -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/📫-Let's%20Connect-2196F3?style=for-the-badge&labelColor=0D1117" alt="Let's Connect" />
 </h3>
 
 <div align="center">
-  <table cellpadding="5" cellspacing="0" border="0">
+  <table cellpadding="8" cellspacing="0" border="0">
     <tr>
       <td>
-        <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+        <a href="https://linkedin.com/in/biswajitpal" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
         </a>
       </td>
       <td>
-        <a href="mailto:your.email@example.com" target="_blank">
+        <a href="mailto:biswajit.pal@example.com" target="_blank">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
         </a>
       </td>
       <td>
-        <a href="https://twitter.com/your-twitter" target="_blank">
+        <a href="https://twitter.com/biswajitpal" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" />
         </a>
       </td>
@@ -334,18 +360,24 @@
         </a>
       </td>
       <td>
-        <a href="https://dev.to/your-devto" target="_blank">
+        <a href="https://dev.to/biswajitpal" target="_blank">
           <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0D1117" alt="Dev.to" />
         </a>
       </td>
     </tr>
   </table>
+  <br>
+  <p>
+    <strong>💬 Open to collaborations, consulting, and freelance opportunities in AI automation & full-stack development!</strong>
+  </p>
+  <p>
+    <em>Response time: Typically within 24-48 hours</em>
+  </p>
 </div>
 
 <br>
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER — Profile Views + Gradient Closing Banner                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- FOOTER — Profile Views + Gradient Closing Banner -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=2196F3&label=Profile%20Views" alt="Profile Views" />
