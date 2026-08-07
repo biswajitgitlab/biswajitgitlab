@@ -64,17 +64,15 @@
 <table width="100%">
   <tr>
     <td width="58%" valign="top">
-
-**🎯 Profession:** AI Automation Engineer & Full Stack Developer  
-**🚀 Focus:** Building intelligent AI agents, integrating automated workflows with **n8n**, and deploying local LLMs utilizing **Ollama** and **RAG**.  
-**💼 Background:** Experienced in **PHP/Laravel** development, expanding strongly into AI-driven automation using **Python**.  
-**📚 Currently Learning:** Deepening knowledge in advanced AI Agent orchestration and scaling cloud architectures on **AWS**.  
-**⚡ Fun Fact:** I automate things so I have more time to think about automating more things! 🤖  
-
+      <b>🎯 Profession:</b> AI Automation Engineer & Full Stack Developer<br><br>
+      <b>🚀 Focus:</b> Building intelligent AI agents, integrating automated workflows with <b>n8n</b>, and deploying local LLMs utilizing <b>Ollama</b> and <b>RAG</b>.<br><br>
+      <b>💼 Background:</b> Experienced in <b>PHP/Laravel</b> development, expanding strongly into AI-driven automation using <b>Python</b>.<br><br>
+      <b>📚 Currently Learning:</b> Deepening knowledge in advanced AI Agent orchestration and scaling cloud architectures on <b>AWS</b>.<br><br>
+      <b>⚡ Fun Fact:</b> I automate things so I have more time to think about automating more things! 🤖
     </td>
     <td width="4%"></td>
     <td width="38%" valign="top" align="center">
-      <img src="https://ghrs.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=10" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=10&v=1" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -291,7 +289,7 @@
     <tr>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://ghrs.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=2196F3&border_radius=12&rank_icon=github" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=2196F3&border_radius=12&rank_icon=github&v=1" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="4%"></td>
@@ -318,7 +316,8 @@
   <table width="70%" align="center">
     <tr>
       <td align="center">
-        <img src="https://ghrs.vercel.app/api/wakatime?username=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=12&layout=compact&langs_count=8" width="100%" alt="WakaTime Stats" />
+        <!-- WakaTime API is currently returning "User not found". Ensure you have a public WakaTime profile linked to your GitHub username. -->
+        <!-- <img src="https://ghrs.vercel.app/api/wakatime?username=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=12&layout=compact&langs_count=8" width="100%" alt="WakaTime Stats" /> -->
       </td>
     </tr>
   </table>
