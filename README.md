@@ -1,9 +1,9 @@
 <!-- 
-  ╔════════════════════════════════════════════════════════════════════════════════════════╗
+  ╔══════════════════════════════════════════════════════════════════════════╗
   ║  PREMIUM DARK-THEMED GITHUB PROFILE README                               ║
   ║  AI Automation Engineer & Full-Stack Developer Portfolio                   ║
   ║  Color Scheme: Deep Navy (#0D1117) | Electric Blue (#2196F3) | Coral (#FF6D5A) ║
-  ╚════════════════════════════════════════════════════════════════════════════════════════╝
+  ╚══════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
@@ -26,7 +26,7 @@
         <table width="100%" bgcolor="#0D1117" cellpadding="20" cellspacing="0" border="0">
           <tr>
             <td align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20an%20AI%20Automation%[...]
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20an%20AI%20Automation%20Engineer;Full%20Stack%20Developer;Building%20AI%20Agents%20with%20n8n%20%26%20Python;RAG%20%7C%20Ollama%20%7C%20LLM%20Orchestration;Automate%20Everything%20%F0%9F%A4%96" alt="Typing Animation" />
               <br><br>
               <!-- Spotify-style Now Coding Badge -->
               <table bgcolor="#161B22" cellpadding="10" cellspacing="0" border="0">
@@ -49,9 +49,9 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME — Emoji bullet points + Side-by-side with Top Languages            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/👨‍💻-About%20Me-2196F3?style=for-the-badge&labelColor=0D1117" alt="About Me" />
@@ -68,16 +68,16 @@
     </td>
     <td width="4%"></td>
     <td width="38%" valign="top" align="center">
-      <img src="https://ghrs.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=10" wid[...]
+      <img src="https://ghrs.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=10" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK — 3-Column Visual Cards with Skill Icons                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/🛠️-Tech%20Stack%20%26%20Tools-2196F3?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" />
@@ -138,9 +138,9 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS — Mockup placeholders + Tech tags + Live demo links       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/🚀-Featured%20Projects-FF6D5A?style=for-the-badge&labelColor=0D1117" alt="Featured Projects" />
@@ -160,7 +160,7 @@
             <h4>🤖 AI Automated Workflow System</h4>
             <p>Intelligent data extraction and processing pipeline built with n8n, Python, and Ollama for end-to-end automation.</p>
             <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-squa[...]
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
             </p>
             <a href="#">
               <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
@@ -186,7 +186,7 @@
             <h4>📄 RAG Document AI Chatbot</h4>
             <p>Secure, private document querying using local LLMs with retrieval-augmented generation and vector storage.</p>
             <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-squa[...]
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-square&logo=robot&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
             </p>
             <a href="#">
               <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
@@ -214,7 +214,7 @@
             <h4>🌐 Full Stack Laravel Application</h4>
             <p>Production-ready web application with automated end-to-end testing utilizing Playwright and CI/CD pipelines.</p>
             <p>
-              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&lo[...]
+              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
             </p>
             <a href="#">
               <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
@@ -240,7 +240,7 @@
             <h4>🐳 Containerized AI Agent Orchestration</h4>
             <p>Scalable multi-agent system integrating Docker, MySQL, and AWS for enterprise-grade data operations.</p>
             <p>
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sq[...]
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
             </p>
             <a href="#">
               <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo" />
@@ -258,9 +258,9 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS — Side-by-side with rounded corners                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/📈-GitHub%20Stats-2196F3?style=for-the-badge&labelColor=0D1117" alt="GitHub Stats" />
@@ -271,13 +271,13 @@
     <tr>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://ghrs.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=2196F3&border_r[...]
+          <img src="https://ghrs.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=2196F3&border_radius=12&rank_icon=github" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="4%"></td>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&background=0D1117&border_radius=12" width="100%" alt="Git[...]
+          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&background=0D1117&border_radius=12" width="100%" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
@@ -285,9 +285,9 @@
 </div>
 
 <br>
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE ANIMATION                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/🐍-Contribution%20Snake-2196F3?style=for-the-badge&labelColor=0D1117" alt="Contribution Snake" />
@@ -302,9 +302,9 @@
 </div>
 
 <br>
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- CONNECT — Social icons in centered row                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/📫-Let's%20Connect-2196F3?style=for-the-badge&labelColor=0D1117" alt="Let's Connect" />
@@ -343,9 +343,9 @@
 </div>
 
 <br>
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER — Profile Views + Gradient Closing Banner                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=2196F3&label=Profile%20Views" alt="Profile Views" />
