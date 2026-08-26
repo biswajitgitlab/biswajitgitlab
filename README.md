@@ -157,148 +157,169 @@
   <img src="https://img.shields.io/badge/🚀-Featured%20Projects-FF007A?style=for-the-badge&labelColor=05070C" alt="Featured Projects" />
 </h3>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <!-- Row 1 -->
+<!-- Project 1: AI Workflow Automation Engine -->
+<table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 14px; overflow: hidden; margin-bottom: 24px;">
   <tr>
-    <!-- Project 1: AI Workflow Automation Engine -->
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="./images/project_ai_workflow.png" width="100%" style="object-fit: cover; max-height: 220px;" alt="AI Automated Workflow System" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="16">
-            <h4 style="color: #00F0FF; margin-top: 5px; margin-bottom: 8px;">🤖 AI Workflow Automation Engine</h4>
-            <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
-              Autonomous multi-step data processing &amp; intelligence pipeline combining n8n, Python microservices, and Ollama local LLMs.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-              <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-            </p>
-            <div style="margin-top: 10px;">
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
-              </a>
-              &nbsp;
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="4%"></td>
-    <!-- Project 2: Enterprise RAG Chatbot -->
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="./images/project_rag_chatbot.png" width="100%" style="object-fit: cover; max-height: 220px;" alt="RAG Document AI Chatbot" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="16">
-            <h4 style="color: #7000FF; margin-top: 5px; margin-bottom: 8px;">📄 Enterprise RAG Knowledge Base</h4>
-            <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
-              Privacy-first document querying engine using local vector search (ChromaDB), LangChain embeddings, and local context retrieval.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/RAG-00F0FF?style=flat-square&logo=robot&logoColor=black" alt="RAG" />
-              <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-              <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" />
-            </p>
-            <div style="margin-top: 10px;">
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
-              </a>
-              &nbsp;
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
+    <td colspan="2">
+      <a href="https://github.com/biswajitgitlab">
+        <img src="./images/project_ai_workflow.png" width="100%" style="display: block; width: 100%; border-bottom: 1px solid #1E293B;" alt="AI Automated Workflow Engine" />
+      </a>
     </td>
   </tr>
-
-  <tr><td colspan="3"><br></td></tr>
-
-  <!-- Row 2 -->
   <tr>
-    <!-- Project 3: Full Stack Approval System -->
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="./images/project_laravel_app.png" width="100%" style="object-fit: cover; max-height: 220px;" alt="Laravel Event System" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="16">
-            <h4 style="color: #FF007A; margin-top: 5px; margin-bottom: 8px;">🌐 Full Stack Event &amp; Approval System</h4>
-            <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
-              Enterprise event platform featuring dynamic custom forms, quota management, multi-tier approvals, and Playwright E2E automation.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-              <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-            </p>
-            <div style="margin-top: 10px;">
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
-              </a>
-              &nbsp;
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
+    <td width="65%" valign="top" style="padding: 22px;">
+      <h3 style="color: #00F0FF; margin-top: 0; margin-bottom: 8px;">🤖 AI Workflow Automation Engine</h3>
+      <p style="color: #CBD5E1; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
+        Autonomous multi-step data intelligence pipeline integrating <b>n8n</b> workflow orchestrations with custom <b>Python microservices</b> and self-hosted <b>Ollama LLM reasoning</b>.
+      </p>
+      <ul style="color: #94A3B8; font-size: 13px; line-height: 1.6; padding-left: 18px; margin: 0;">
+        <li>Automated data ingestion, vector embedding transformation &amp; AI processing.</li>
+        <li>Self-hosted Ollama local LLM execution for privacy &amp; zero API costs.</li>
+        <li>Docker containerized architecture with high-concurrency queue processing.</li>
+      </ul>
     </td>
-    <td width="4%"></td>
-    <!-- Project 4: Microservice Agent Orchestration -->
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="./images/project_agent_orchestration.png" width="100%" style="object-fit: cover; max-height: 220px;" alt="Agent Microservice Orchestration" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="16">
-            <h4 style="color: #00F0FF; margin-top: 5px; margin-bottom: 8px;">🐳 Containerized Agent Microservices</h4>
-            <p style="color: #94A3B8; font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
-              Production multi-agent cloud infrastructure built with Docker, Redis queues, and AWS container deployment pipelines.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-              <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-              <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-            </p>
-            <div style="margin-top: 10px;">
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
-              </a>
-              &nbsp;
-              <a href="https://github.com/biswajitgitlab">
-                <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
+    <td width="35%" valign="top" style="padding: 22px; border-left: 1px solid #1E293B;" align="center">
+      <h5 style="color: #94A3B8; margin-top: 0; margin-bottom: 10px; letter-spacing: 1px;">TECH STACK</h5>
+      <p style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
+      </a>
+      <div style="margin-top: 8px;"></div>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 2: Enterprise RAG Knowledge Base -->
+<table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 14px; overflow: hidden; margin-bottom: 24px;">
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/biswajitgitlab">
+        <img src="./images/project_rag_chatbot.png" width="100%" style="display: block; width: 100%; border-bottom: 1px solid #1E293B;" alt="RAG Document AI Chatbot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%" valign="top" style="padding: 22px;">
+      <h3 style="color: #7000FF; margin-top: 0; margin-bottom: 8px;">📄 Enterprise RAG Knowledge Base</h3>
+      <p style="color: #CBD5E1; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
+        Privacy-first document querying engine using local vector search (<b>ChromaDB</b>), <b>LangChain</b> embeddings, and local context retrieval for instant Q&amp;A over internal documents.
+      </p>
+      <ul style="color: #94A3B8; font-size: 13px; line-height: 1.6; padding-left: 18px; margin: 0;">
+        <li>Vector similarity search with ChromaDB &amp; LangChain document loaders.</li>
+        <li>Sub-second query response latency with local LLM context grounding.</li>
+        <li>100% on-premise execution ensuring complete data privacy.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top" style="padding: 22px; border-left: 1px solid #1E293B;" align="center">
+      <h5 style="color: #94A3B8; margin-top: 0; margin-bottom: 10px; letter-spacing: 1px;">TECH STACK</h5>
+      <p style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/RAG-00F0FF?style=flat-square&logo=robot&logoColor=black" alt="RAG" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" />
+      </p>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
+      </a>
+      <div style="margin-top: 8px;"></div>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 3: Full Stack Event & Approval System -->
+<table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 14px; overflow: hidden; margin-bottom: 24px;">
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/biswajitgitlab">
+        <img src="./images/project_laravel_app.png" width="100%" style="display: block; width: 100%; border-bottom: 1px solid #1E293B;" alt="Laravel Event System" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%" valign="top" style="padding: 22px;">
+      <h3 style="color: #FF007A; margin-top: 0; margin-bottom: 8px;">🌐 Full Stack Event &amp; Approval System</h3>
+      <p style="color: #CBD5E1; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
+        Production web application engineered with <b>PHP / Laravel</b> featuring dynamic form generation, capacity quota management, multi-tier organizational approvals, and automated testing.
+      </p>
+      <ul style="color: #94A3B8; font-size: 13px; line-height: 1.6; padding-left: 18px; margin: 0;">
+        <li>Role-based access control (RBAC) with Spatie authorization middleware.</li>
+        <li>Automated end-to-end integration testing suite utilizing <b>Playwright</b>.</li>
+        <li>Responsive dark dashboard interface with real-time analytics summary.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top" style="padding: 22px; border-left: 1px solid #1E293B;" align="center">
+      <h5 style="color: #94A3B8; margin-top: 0; margin-bottom: 10px; letter-spacing: 1px;">TECH STACK</h5>
+      <p style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+      </p>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
+      </a>
+      <div style="margin-top: 8px;"></div>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 4: Microservice Agent Orchestration -->
+<table width="100%" bgcolor="#0B0F19" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1E293B; border-radius: 14px; overflow: hidden; margin-bottom: 24px;">
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/biswajitgitlab">
+        <img src="./images/project_agent_orchestration.png" width="100%" style="display: block; width: 100%; border-bottom: 1px solid #1E293B;" alt="Agent Microservice Orchestration" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%" valign="top" style="padding: 22px;">
+      <h3 style="color: #00F0FF; margin-top: 0; margin-bottom: 8px;">🐳 Containerized Agent Microservices</h3>
+      <p style="color: #CBD5E1; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
+        Scalable cloud microservice architecture built with <b>Docker</b>, <b>Redis asynchronous task queues</b>, and <b>AWS deployment pipelines</b> for high-availability agent operations.
+      </p>
+      <ul style="color: #94A3B8; font-size: 13px; line-height: 1.6; padding-left: 18px; margin: 0;">
+        <li>Multi-container orchestration for distributed worker nodes &amp; API gateways.</li>
+        <li>Redis caching &amp; message broker for low-latency state synchronization.</li>
+        <li>Automated deployment workflows integrated with GitHub Actions CI/CD.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top" style="padding: 22px; border-left: 1px solid #1E293B;" align="center">
+      <h5 style="color: #94A3B8; margin-top: 0; margin-bottom: 10px; letter-spacing: 1px;">TECH STACK</h5>
+      <p style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/▶%20Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05070C" alt="Live Demo" />
+      </a>
+      <div style="margin-top: 8px;"></div>
+      <a href="https://github.com/biswajitgitlab">
+        <img src="https://img.shields.io/badge/📂%20Source%20Code-7000FF?style=for-the-badge&logo=github&logoColor=white&labelColor=05070C" alt="Source Code" />
+      </a>
     </td>
   </tr>
 </table>
