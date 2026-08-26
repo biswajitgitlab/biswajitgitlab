@@ -14,7 +14,7 @@
   <img
     width="100%"
     alt="Biswajit Sarkar - AI Automation Engineer and Full Stack Developer"
-    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030712,32:0EA5E9,66:7C3AED,100:F97316&text=Biswajit%20Sarkar&fontColor=F8FAFC&fontSize=60&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=61&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030712,32:0EA5E9,66:7C3AED,100:F97316&text=Biswajit%20Sarkar&fontColor=F8FAFC&fontSize=60&fontAlignY=38&desc=AI%20Automation%20Engineer%20and%20Full%20Stack%20Developer&descSize=18&descAlignY=61&animation=twinkling"
   />
 
   <h2>Biswajit Sarkar - AI Automation Engineer and Full Stack Developer</h2>
