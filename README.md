@@ -93,7 +93,7 @@
 <br>
 
 <div align="center">
-  <img alt="Animated icon matrix header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=0:020617,35:0EA5E9,70:7C3AED,100:F97316&text=Animated%20Icon%20Matrix&fontColor=F8FAFC&fontSize=30&desc=all%20motion%20icons%20from%20the%20attached%20reference%20set&descSize=13&descAlignY=72&animation=fadeIn" />
+  <img alt="Tech stack in motion header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=0:020617,35:0EA5E9,70:7C3AED,100:F97316&text=Tech%20Stack%20in%20Motion&fontColor=F8FAFC&fontSize=30&desc=animated%20tools%2C%20platforms%2C%20and%20social%20signals&descSize=13&descAlignY=72&animation=fadeIn" />
 </div>
 
 <br>
