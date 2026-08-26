@@ -33,10 +33,6 @@
       <stop offset="0%" stop-color="#3178C6"/>
       <stop offset="100%" stop-color="#00F0FF"/>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
   </defs>
 
   <style>
@@ -58,21 +54,15 @@
   <!-- Stacked Progress Bar -->
   <g transform="translate(24, 75)">
     <rect x="0" y="0" width="352" height="12" rx="6" fill="#1E293B"/>
-    <!-- Python 45.2% -> 159.1px -->
     <rect x="0" y="0" width="159.1" height="12" rx="6" fill="url(#python-grad)"/>
-    <!-- PHP 28.6% -> 100.6px -->
     <rect x="156.1" y="0" width="103.6" height="12" fill="url(#php-grad)"/>
-    <!-- JS 14.8% -> 52.1px -->
     <rect x="256.7" y="0" width="55.1" height="12" fill="url(#js-grad)"/>
-    <!-- HTML/CSS 7.4% -> 26.0px -->
     <rect x="308.8" y="0" width="29.0" height="12" fill="url(#html-grad)"/>
-    <!-- TS 4.0% -> 14.1px -->
     <rect x="334.8" y="0" width="17.2" height="12" rx="6" fill="url(#ts-grad)"/>
   </g>
 
   <!-- Legend Grid -->
   <g transform="translate(24, 118)">
-    <!-- Column 1 -->
     <g transform="translate(0, 0)">
       <circle cx="6" cy="6" r="6" fill="url(#python-grad)"/>
       <text x="20" y="10" class="lang-name">Python</text>
@@ -89,7 +79,6 @@
       <text x="120" y="10" class="lang-percent">14.8%</text>
     </g>
 
-    <!-- Column 2 -->
     <g transform="translate(180, 0)">
       <circle cx="6" cy="6" r="6" fill="url(#html-grad)"/>
       <text x="20" y="10" class="lang-name">HTML/CSS</text>

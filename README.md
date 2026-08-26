@@ -323,10 +323,10 @@
         </a>
       </td>
       <td width="4%"></td>
-      <!-- Contribution Streak Stats -->
+      <!-- Contribution Streak Stats Card -->
       <td width="48%" align="center" valign="top">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=00F0FF&text_color=F1F5F9&side_side_color=00F0FF&background=0B0F19&border_radius=14" width="100%" alt="GitHub Streak Stats" />
+          <img src="./images/github_streak.svg" width="100%" alt="GitHub Streak Stats" />
         </a>
       </td>
     </tr>
