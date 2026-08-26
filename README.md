@@ -1,22 +1,20 @@
 <!-- 
   ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  PURE DARK BLACK-THEMED GITHUB PROFILE README                            ║
+  ║  GITHUB PROFILE README                                                   ║
   ║  AI Automation Engineer & Full Stack Developer Portfolio                 ║
-  ║  Color Scheme: Pitch Black (#000000) | Electric Blue (#2196F3) | Coral (#FF6D5A) ║
   ╚══════════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION — Cinematic Gradient Banner + Typing Animation + Glowing Border -->
+<!-- HERO SECTION — Gradient Banner + Typing Animation                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <!-- Outer glow table -->
+  <!-- Outer Banner -->
   <table width="100%">
     <tr>
       <td align="center">
-        <!-- Gradient Banner SVG -->
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:000000,100:FF6D5A&height=200&section=header&text=&fontSize=0" width="100%" alt="Gradient Banner" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:FF6D5A&height=200&section=header&text=&fontSize=0" width="100%" alt="Gradient Banner" />
       </td>
     </tr>
   </table>
@@ -24,22 +22,22 @@
   <br>
   
   <!-- Glowing Border Effect via nested tables -->
-  <table width="85%" bgcolor="#2196F3" cellpadding="2" cellspacing="0" border="0">
+  <table width="85%" cellpadding="2" cellspacing="0" border="0">
     <tr>
       <td>
-        <table width="100%" bgcolor="#000000" cellpadding="20" cellspacing="0" border="0">
+        <table width="100%" cellpadding="20" cellspacing="0" border="0">
           <tr>
             <td align="center">
               <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+an+AI+Automation+Engineer;Full+Stack+Developer;Building+AI+Agents+with+n8n+%26+Python;RAG+%7C+Ollama+%7C+LLM+Orchestration;Automate+Everything+%F0%9F%A4%96" alt="Typing Animation" />
               <br><br>
               <!-- Spotify-style Now Coding Badge -->
-              <table bgcolor="#080808" cellpadding="10" cellspacing="0" border="0">
+              <table cellpadding="10" cellspacing="0" border="0">
                 <tr>
                   <td>
-                    <img src="https://img.shields.io/badge/🎧-Now%20Coding-1DB954?style=for-the-badge&labelColor=000000&color=2196F3" alt="Now Coding" />
+                    <img src="https://img.shields.io/badge/🎧-Now%20Coding-1DB954?style=for-the-badge&color=2196F3" alt="Now Coding" />
                   </td>
                   <td>
-                    <img src="https://img.shields.io/badge/⚡-Python%20%7C%20n8n%20%7C%20Ollama-FF6D5A?style=for-the-badge&labelColor=000000" alt="Tech Stack" />
+                    <img src="https://img.shields.io/badge/⚡-Python%20%7C%20n8n%20%7C%20Ollama-FF6D5A?style=for-the-badge" alt="Tech Stack" />
                   </td>
                 </tr>
               </table>
@@ -58,7 +56,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻-About%20Me-2196F3?style=for-the-badge&labelColor=000000" alt="About Me" />
+  <img src="https://img.shields.io/badge/👨‍💻-About%20Me-2196F3?style=for-the-badge" alt="About Me" />
 </h3>
 
 <table width="100%">
@@ -84,14 +82,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/🛠️-Tech%20Stack%20%26%20Tools-2196F3?style=for-the-badge&labelColor=000000" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/🛠️-Tech%20Stack%20%26%20Tools-2196F3?style=for-the-badge" alt="Tech Stack" />
 </h3>
 
 <table width="100%">
   <tr>
     <!-- Column 1: Languages & Frameworks -->
     <td width="32%" valign="top" align="center">
-      <table width="100%" bgcolor="#080808" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px;">
+      <table width="100%" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px;">
         <tr>
           <td align="center">
             <h4>💻 Languages & Frameworks</h4>
@@ -106,7 +104,7 @@
     <td width="2%"></td>
     <!-- Column 2: AI & Automation -->
     <td width="32%" valign="top" align="center">
-      <table width="100%" bgcolor="#080808" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px;">
+      <table width="100%" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px;">
         <tr>
           <td align="center">
             <h4>🤖 AI & Automation</h4>
@@ -124,7 +122,7 @@
     <td width="2%"></td>
     <!-- Column 3: DevOps, Testing & Databases -->
     <td width="32%" valign="top" align="center">
-      <table width="100%" bgcolor="#080808" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px;">
+      <table width="100%" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px;">
         <tr>
           <td align="center">
             <h4>☁️ DevOps, Testing & DBs</h4>
@@ -147,14 +145,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/🚀-Featured%20Projects-FF6D5A?style=for-the-badge&labelColor=000000" alt="Featured Projects" />
+  <img src="https://img.shields.io/badge/🚀-Featured%20Projects-FF6D5A?style=for-the-badge" alt="Featured Projects" />
 </h3>
 
 <table width="100%">
   <!-- Row 1 -->
   <tr>
     <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;">
         <tr>
           <td>
             <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCn9UymdwVTBcgjixH0omRih8RZkXty_Xb1LxAXhygoRDBmWKLdIRxPsnj2nHhePW4sPWjsG6KzD09GupgbozgqhHq7z2QSSdg58el7gpkXepi3T31FugZxNYXkmT4-7hyXnlGuvoW57L6vAN6NbabonGd0DVNpG_s4e_a6VIcq_Zw4-xPeoQA6iLNHeNXaXNfMajk2W5XbOsbnVs5D8ACPfZHB9Y3pda-306Huyv3Sa5gkqSk0A5Y6" width="100%" style="object-fit: cover; max-height: 220px;" alt="AI Automated Workflow System" />
@@ -171,11 +169,11 @@
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
             </p>
             <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
+              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
             </a>
             &nbsp;
             <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
+              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
             </a>
           </td>
         </tr>
@@ -183,7 +181,7 @@
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;">
         <tr>
           <td>
             <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBwTwY-nT7C4moWUNzthN51CiaQ3pgpXhpY-oD568tjY4gaQft3eE1S16z0lpIUMFzQVigtRl_5cBKyO-YdfUw_FeJO_jDoXp6HFiSDF9DxdLDbro8gggrvz1F_TaDsYmm3aQoF8Y_CbV3lMpTrmYdW8Xrs6IteQ6_t8Ae8NOlv7JvzbqLd2TG9S6hGKBko91GQI2oeKkTOBa3fV7DmFVBGqf22SawAr93op1_21iADxqbYcPdY-16W" width="100%" style="object-fit: cover; max-height: 220px;" alt="RAG Document AI Chatbot" />
@@ -200,11 +198,11 @@
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
             </p>
             <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
+              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
             </a>
             &nbsp;
             <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
+              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
             </a>
           </td>
         </tr>
@@ -215,7 +213,7 @@
   <!-- Row 2 -->
   <tr>
     <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;">
         <tr>
           <td>
             <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBwTwY-nT7C4moWUNzthN51CiaQ3pgpXhpY-oD568tjY4gaQft3eE1S16z0lpIUMFzQVigtRl_5cBKyO-YdfUw_FeJO_jDoXp6HFiSDF9DxdLDbro8gggrvz1F_TaDsYmm3aQoF8Y_CbV3lMpTrmYdW8Xrs6IteQ6_t8Ae8NOlv7JvzbqLd2TG9S6hGKBko91GQI2oeKkTOBa3fV7DmFVBGqf22SawAr93op1_21iADxqbYcPdY-16W" width="100%" style="object-fit: cover; max-height: 220px;" alt="Laravel Full Stack App" />
@@ -232,11 +230,11 @@
               <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
             </p>
             <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
+              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
             </a>
             &nbsp;
             <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
+              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
             </a>
           </td>
         </tr>
@@ -244,7 +242,7 @@
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; overflow: hidden;">
         <tr>
           <td>
             <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCn9UymdwVTBcgjixH0omRih8RZkXty_Xb1LxAXhygoRDBmWKLdIRxPsnj2nHhePW4sPWjsG6KzD09GupgbozgqhHq7z2QSSdg58el7gpkXepi3T31FugZxNYXkmT4-7hyXnlGuvoW57L6vAN6NbabonGd0DVNpG_s4e_a6VIcq_Zw4-xPeoQA6iLNHeNXaXNfMajk2W5XbOsbnVs5D8ACPfZHB9Y3pda-306Huyv3Sa5gkqSk0A5Y6" width="100%" style="object-fit: cover; max-height: 220px;" alt="AI Agent Orchestration" />
@@ -261,11 +259,11 @@
               <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
             </p>
             <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
+              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
             </a>
             &nbsp;
             <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
+              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
             </a>
           </td>
         </tr>
@@ -281,7 +279,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/📈-GitHub%20Stats-2196F3?style=for-the-badge&labelColor=000000" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/📈-GitHub%20Stats-2196F3?style=for-the-badge" alt="GitHub Stats" />
 </h3>
 
 <div align="center">
@@ -295,7 +293,7 @@
       <td width="4%"></td>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&background=0D1117&border_radius=12" width="100%" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&border_radius=12" width="100%" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
@@ -309,7 +307,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/🐍-Contribution%20Snake-2196F3?style=for-the-badge&labelColor=000000" alt="Contribution Snake" />
+  <img src="https://img.shields.io/badge/🐍-Contribution%20Snake-2196F3?style=for-the-badge" alt="Contribution Snake" />
 </h3>
 
 <div align="center">
@@ -327,7 +325,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/📫-Let's%20Connect-2196F3?style=for-the-badge&labelColor=000000" alt="Let's Connect" />
+  <img src="https://img.shields.io/badge/📫-Let's%20Connect-2196F3?style=for-the-badge" alt="Let's Connect" />
 </h3>
 
 <div align="center">
@@ -335,27 +333,27 @@
     <tr>
       <td>
         <a href="https://linkedin.com/in/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
       <td>
         <a href="mailto:biswajitsarkaretce@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </td>
       <td>
         <a href="https://twitter.com/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter" />
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
       </td>
       <td>
         <a href="https://github.com/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
       <td>
         <a href="https://dev.to/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000" alt="Dev.to" />
+          <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
         </a>
       </td>
     </tr>
@@ -371,5 +369,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=2196F3&label=Profile%20Views" alt="Profile Views" />
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6D5A,50:000000,100:2196F3&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer Gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6D5A,100:2196F3&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer Gradient" />
 </div>
