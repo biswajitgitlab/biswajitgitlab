@@ -7,9 +7,7 @@
   - https://github.com/DenverCoder1/readme-typing-svg
   - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
   - https://skillicons.dev
-  - https://github.com/anuraghazra/github-readme-stats
-  - https://github.com/ryo-ma/github-profile-trophy
-  - https://github.com/bhoopeshrk/github-readme-activity-graph
+  - local dark glass SVG stat cards in ./images
 -->
 
 <div align="center">
@@ -190,30 +188,20 @@
 
 <br>
 
-<div align="center">
-  <img
-    width="96%"
-    alt="GitHub trophies"
-    src="https://github-profile-trophy.vercel.app/?username=biswajitgitlab&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
-  />
-</div>
-
-<br>
-
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <img
         width="100%"
         alt="Biswajit's GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=biswajitgitlab&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&icon_color=FB7185"
+        src="./images/github_stats.svg"
       />
     </td>
     <td width="50%" align="center">
       <img
         width="100%"
         alt="Biswajit's top languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1"
+        src="./images/top_langs.svg"
       />
     </td>
   </tr>
@@ -223,15 +211,7 @@
   <img
     width="96%"
     alt="GitHub streak"
-    src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=github-dark-blue&hide_border=true&background=00000000&ring=38BDF8&fire=FB7185&currStreakLabel=CBD5E1"
-  />
-</div>
-
-<div align="center">
-  <img
-    width="96%"
-    alt="GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=biswajitgitlab&theme=react-dark&hide_border=true&bg_color=020617&color=CBD5E1&title_color=38BDF8&line=FB7185&point=F8FAFC&area=true&area_color=0EA5E9"
+    src="./images/github_streak.svg"
   />
 </div>
 
