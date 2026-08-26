@@ -1,61 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" fill="none">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#05070C"/>
+    </linearGradient>
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#7000FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF007A" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="header-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#7000FF"/>
+    </linearGradient>
+    <linearGradient id="python-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3776AB"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+    <linearGradient id="php-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#777BB4"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="js-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F7DF1E"/>
+      <stop offset="100%" stop-color="#FF9900"/>
+    </linearGradient>
+    <linearGradient id="html-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E34F26"/>
+      <stop offset="100%" stop-color="#FF6D5A"/>
+    </linearGradient>
+    <linearGradient id="ts-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3178C6"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #2196F3; }
-    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #C9D1D9; }
-    .lang-percent { font: 400 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #8B949E; }
+    .header { font: 700 18px 'Inter', -apple-system, sans-serif; fill: url(#header-grad); letter-spacing: 0.5px; }
+    .subtitle { font: 500 11px 'Inter', -apple-system, sans-serif; fill: #64748B; }
+    .lang-name { font: 600 13px 'Inter', -apple-system, sans-serif; fill: #F1F5F9; }
+    .lang-percent { font: 500 13px 'Inter', -apple-system, sans-serif; fill: #94A3B8; }
   </style>
 
-  <rect width="350" height="195" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <!-- Base Card background -->
+  <rect width="398" height="228" x="1" y="1" rx="14" fill="url(#card-bg)" stroke="url(#card-border)" stroke-width="1.5"/>
 
   <!-- Header -->
-  <g transform="translate(25, 38)">
+  <g transform="translate(24, 34)">
     <text class="header">Most Used Languages</text>
+    <text y="18" class="subtitle">Based on GitHub repository breakdown</text>
   </g>
 
   <!-- Stacked Progress Bar -->
-  <g transform="translate(25, 55)">
-    <rect x="0" y="0" width="300" height="10" rx="5" fill="#21262D"/>
-    <!-- Python 45.2% -> 135.6px -->
-    <rect x="0" y="0" width="135.6" height="10" rx="5" fill="#3572A5"/>
-    <!-- PHP 28.6% -> 85.8px -->
-    <rect x="133.6" y="0" width="87.8" height="10" fill="#4F5D95"/>
-    <!-- JS 14.8% -> 44.4px -->
-    <rect x="219.4" y="0" width="46.4" height="10" fill="#F1E05A"/>
-    <!-- HTML/CSS 7.4% -> 22.2px -->
-    <rect x="263.8" y="0" width="24.2" height="10" fill="#E34C26"/>
-    <!-- TS 4.0% -> 12px -->
-    <rect x="286.0" y="0" width="14.0" height="10" rx="5" fill="#3178C6"/>
+  <g transform="translate(24, 75)">
+    <rect x="0" y="0" width="352" height="12" rx="6" fill="#1E293B"/>
+    <!-- Python 45.2% -> 159.1px -->
+    <rect x="0" y="0" width="159.1" height="12" rx="6" fill="url(#python-grad)"/>
+    <!-- PHP 28.6% -> 100.6px -->
+    <rect x="156.1" y="0" width="103.6" height="12" fill="url(#php-grad)"/>
+    <!-- JS 14.8% -> 52.1px -->
+    <rect x="256.7" y="0" width="55.1" height="12" fill="url(#js-grad)"/>
+    <!-- HTML/CSS 7.4% -> 26.0px -->
+    <rect x="308.8" y="0" width="29.0" height="12" fill="url(#html-grad)"/>
+    <!-- TS 4.0% -> 14.1px -->
+    <rect x="334.8" y="0" width="17.2" height="12" rx="6" fill="url(#ts-grad)"/>
   </g>
 
   <!-- Legend Grid -->
-  <g transform="translate(25, 90)">
+  <g transform="translate(24, 118)">
     <!-- Column 1 -->
     <g transform="translate(0, 0)">
-      <circle cx="6" cy="6" r="5" fill="#3572A5"/>
-      <text x="18" y="10" class="lang-name">Python</text>
-      <text x="95" y="10" class="lang-percent">45.2%</text>
+      <circle cx="6" cy="6" r="6" fill="url(#python-grad)"/>
+      <text x="20" y="10" class="lang-name">Python</text>
+      <text x="120" y="10" class="lang-percent">45.2%</text>
     </g>
-    <g transform="translate(0, 28)">
-      <circle cx="6" cy="6" r="5" fill="#4F5D95"/>
-      <text x="18" y="10" class="lang-name">PHP</text>
-      <text x="95" y="10" class="lang-percent">28.6%</text>
+    <g transform="translate(0, 32)">
+      <circle cx="6" cy="6" r="6" fill="url(#php-grad)"/>
+      <text x="20" y="10" class="lang-name">PHP</text>
+      <text x="120" y="10" class="lang-percent">28.6%</text>
     </g>
-    <g transform="translate(0, 56)">
-      <circle cx="6" cy="6" r="5" fill="#F1E05A"/>
-      <text x="18" y="10" class="lang-name">JavaScript</text>
-      <text x="95" y="10" class="lang-percent">14.8%</text>
+    <g transform="translate(0, 64)">
+      <circle cx="6" cy="6" r="6" fill="url(#js-grad)"/>
+      <text x="20" y="10" class="lang-name">JavaScript</text>
+      <text x="120" y="10" class="lang-percent">14.8%</text>
     </g>
 
     <!-- Column 2 -->
-    <g transform="translate(150, 0)">
-      <circle cx="6" cy="6" r="5" fill="#E34C26"/>
-      <text x="18" y="10" class="lang-name">HTML/CSS</text>
-      <text x="95" y="10" class="lang-percent">7.4%</text>
+    <g transform="translate(180, 0)">
+      <circle cx="6" cy="6" r="6" fill="url(#html-grad)"/>
+      <text x="20" y="10" class="lang-name">HTML/CSS</text>
+      <text x="120" y="10" class="lang-percent">7.4%</text>
     </g>
-    <g transform="translate(150, 28)">
-      <circle cx="6" cy="6" r="5" fill="#3178C6"/>
-      <text x="18" y="10" class="lang-name">TypeScript</text>
-      <text x="95" y="10" class="lang-percent">4.0%</text>
+    <g transform="translate(180, 32)">
+      <circle cx="6" cy="6" r="6" fill="url(#ts-grad)"/>
+      <text x="20" y="10" class="lang-name">TypeScript</text>
+      <text x="120" y="10" class="lang-percent">4.0%</text>
     </g>
   </g>
 </svg>
