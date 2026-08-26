@@ -244,9 +244,6 @@
   <a href="https://linkedin.com/in/biswajitgitlab">
     <img alt="LinkedIn Biswajit" src="https://img.shields.io/badge/LinkedIn-biswajitgitlab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://dev.to/biswajitgitlab">
-    <img alt="Dev.to Biswajit" src="https://img.shields.io/badge/Dev.to-biswajitgitlab-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=020617" />
-  </a>
 </div>
 
 <div align="center">
