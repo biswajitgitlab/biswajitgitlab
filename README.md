@@ -72,7 +72,7 @@
     </td>
     <td width="4%"></td>
     <td width="38%" valign="top" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&border_radius=10&v=1" width="100%" alt="Top Languages" />
+      <img src="./images/top_langs.png" width="100%" style="object-fit: cover; max-height: 250px; border-radius: 10px;" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -157,7 +157,7 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/2196F3?text=%F0%9F%A4%96+AI+Workflow+System&font=roboto" width="100%" alt="Project Mockup" />
+            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCn9UymdwVTBcgjixH0omRih8RZkXty_Xb1LxAXhygoRDBmWKLdIRxPsnj2nHhePW4sPWjsG6KzD09GupgbozgqhHq7z2QSSdg58el7gpkXepi3T31FugZxNYXkmT4-7hyXnlGuvoW57L6vAN6NbabonGd0DVNpG_s4e_a6VIcq_Zw4-xPeoQA6iLNHeNXaXNfMajk2W5XbOsbnVs5D8ACPfZHB9Y3pda-306Huyv3Sa5gkqSk0A5Y6" width="100%" style="object-fit: cover; max-height: 220px;" alt="AI Automated Workflow System" />
           </td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/FF6D5A?text=%F0%9F%93%84+RAG+Document+Chatbot&font=roboto" width="100%" alt="Project Mockup" />
+            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBwTwY-nT7C4moWUNzthN51CiaQ3pgpXhpY-oD568tjY4gaQft3eE1S16z0lpIUMFzQVigtRl_5cBKyO-YdfUw_FeJO_jDoXp6HFiSDF9DxdLDbro8gggrvz1F_TaDsYmm3aQoF8Y_CbV3lMpTrmYdW8Xrs6IteQ6_t8Ae8NOlv7JvzbqLd2TG9S6hGKBko91GQI2oeKkTOBa3fV7DmFVBGqf22SawAr93op1_21iADxqbYcPdY-16W" width="100%" style="object-fit: cover; max-height: 220px;" alt="RAG Document AI Chatbot" />
           </td>
         </tr>
         <tr>
@@ -218,7 +218,7 @@
       <table width="100%" bgcolor="#161B22" cellpadding="0" cellspacing="0" border="0">
         <tr>
           <td>
-            <img src="https://placehold.co/600x280/0D1117/2196F3?text=%F0%9F%8C%90+Laravel+Full+Stack+App&font=roboto" width="100%" alt="Project Mockup" />
+            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBwTwY-nT7C4moWUNzthN51CiaQ3pgpXhpY-oD568tjY4gaQft3eE1S16z0lpIUMFzQVigtRl_5cBKyO-YdfUw_FeJO_jDoXp6HFiSDF9DxdLDbro8gggrvz1F_TaDsYmm3aQoF8Y_CbV3lMpTrmYdW8Xrs6IteQ6_t8Ae8NOlv7JvzbqLd2TG9S6hGKBko91GQI2oeKkTOBa3fV7DmFVBGqf22SawAr93op1_21iADxqbYcPdY-16W" width="100%" style="object-fit: cover; max-height: 220px;" alt="Laravel Full Stack App" />
           </td>
         </tr>
         <tr>
@@ -289,7 +289,7 @@
     <tr>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=biswajitgitlab&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0D1117&icon_color=2196F3&border_radius=12&rank_icon=github&v=1" width="100%" alt="GitHub Stats" />
+          <img src="./images/github_stats.png" width="100%" style="object-fit: cover; max-height: 250px; border-radius: 12px;" alt="GitHub Stats" />
         </a>
       </td>
       <td width="4%"></td>
