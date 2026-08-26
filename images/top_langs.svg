@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #2196F3; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #C9D1D9; }
+    .lang-percent { font: 400 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #8B949E; }
+  </style>
+
+  <rect width="350" height="195" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Header -->
+  <g transform="translate(25, 38)">
+    <text class="header">Most Used Languages</text>
+  </g>
+
+  <!-- Stacked Progress Bar -->
+  <g transform="translate(25, 55)">
+    <rect x="0" y="0" width="300" height="10" rx="5" fill="#21262D"/>
+    <!-- Python 45.2% -> 135.6px -->
+    <rect x="0" y="0" width="135.6" height="10" rx="5" fill="#3572A5"/>
+    <!-- PHP 28.6% -> 85.8px -->
+    <rect x="133.6" y="0" width="87.8" height="10" fill="#4F5D95"/>
+    <!-- JS 14.8% -> 44.4px -->
+    <rect x="219.4" y="0" width="46.4" height="10" fill="#F1E05A"/>
+    <!-- HTML/CSS 7.4% -> 22.2px -->
+    <rect x="263.8" y="0" width="24.2" height="10" fill="#E34C26"/>
+    <!-- TS 4.0% -> 12px -->
+    <rect x="286.0" y="0" width="14.0" height="10" rx="5" fill="#3178C6"/>
+  </g>
+
+  <!-- Legend Grid -->
+  <g transform="translate(25, 90)">
+    <!-- Column 1 -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="5" fill="#3572A5"/>
+      <text x="18" y="10" class="lang-name">Python</text>
+      <text x="95" y="10" class="lang-percent">45.2%</text>
+    </g>
+    <g transform="translate(0, 28)">
+      <circle cx="6" cy="6" r="5" fill="#4F5D95"/>
+      <text x="18" y="10" class="lang-name">PHP</text>
+      <text x="95" y="10" class="lang-percent">28.6%</text>
+    </g>
+    <g transform="translate(0, 56)">
+      <circle cx="6" cy="6" r="5" fill="#F1E05A"/>
+      <text x="18" y="10" class="lang-name">JavaScript</text>
+      <text x="95" y="10" class="lang-percent">14.8%</text>
+    </g>
+
+    <!-- Column 2 -->
+    <g transform="translate(150, 0)">
+      <circle cx="6" cy="6" r="5" fill="#E34C26"/>
+      <text x="18" y="10" class="lang-name">HTML/CSS</text>
+      <text x="95" y="10" class="lang-percent">7.4%</text>
+    </g>
+    <g transform="translate(150, 28)">
+      <circle cx="6" cy="6" r="5" fill="#3178C6"/>
+      <text x="18" y="10" class="lang-name">TypeScript</text>
+      <text x="95" y="10" class="lang-percent">4.0%</text>
+    </g>
+  </g>
+</svg>

@@ -72,7 +72,7 @@
     </td>
     <td width="4%"></td>
     <td width="38%" valign="top" align="center">
-      <img src="./images/top_langs.png" width="100%" alt="Top Languages" />
+      <img src="./images/top_langs.svg" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -289,7 +289,7 @@
     <tr>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="./images/github_stats.png" width="100%" alt="GitHub Stats" />
+          <img src="./images/github_stats.svg" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="4%"></td>
