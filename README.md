@@ -1,375 +1,274 @@
-<!-- 
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  PURE DARK BLACK-THEMED GITHUB PROFILE README                            ║
-  ║  AI Automation Engineer & Full Stack Developer Portfolio                 ║
-  ║  Color Scheme: Pitch Black (#000000) | Electric Blue (#2196F3) | Coral (#FF6D5A) ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
+<!--
+  Modern dark glass GitHub profile README for biswajitgitlab.
+  The attached "README (1).md" was treated as visual inspiration and asset reference only.
+
+  Web visuals used:
+  - https://github.com/kyechan99/capsule-render
+  - https://github.com/DenverCoder1/readme-typing-svg
+  - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
+  - https://skillicons.dev
+  - https://github.com/anuraghazra/github-readme-stats
+  - https://github.com/ryo-ma/github-profile-trophy
+  - https://github.com/bhoopeshrk/github-readme-activity-graph
 -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION — Cinematic Gradient Banner + Typing Animation + Glowing Border -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <!-- Outer glow table -->
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <!-- Gradient Banner SVG -->
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:000000,100:FF6D5A&height=200&section=header&text=&fontSize=0" width="100%" alt="Gradient Banner" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Glowing Border Effect via nested tables -->
-  <table width="85%" bgcolor="#2196F3" cellpadding="2" cellspacing="0" border="0">
-    <tr>
-      <td>
-        <table width="100%" bgcolor="#000000" cellpadding="20" cellspacing="0" border="0">
-          <tr>
-            <td align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+an+AI+Automation+Engineer;Full+Stack+Developer;Building+AI+Agents+with+n8n+%26+Python;RAG+%7C+Ollama+%7C+LLM+Orchestration;Automate+Everything+%F0%9F%A4%96" alt="Typing Animation" />
-              <br><br>
-              <!-- Spotify-style Now Coding Badge -->
-              <table bgcolor="#080808" cellpadding="10" cellspacing="0" border="0">
-                <tr>
-                  <td>
-                    <img src="https://img.shields.io/badge/🎧-Now%20Coding-1DB954?style=for-the-badge&labelColor=000000&color=2196F3" alt="Now Coding" />
-                  </td>
-                  <td>
-                    <img src="https://img.shields.io/badge/⚡-Python%20%7C%20n8n%20%7C%20Ollama-FF6D5A?style=for-the-badge&labelColor=000000" alt="Tech Stack" />
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <img
+    width="100%"
+    alt="Biswajit Sarkar - AI Automation Engineer and Full Stack Developer"
+    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030712,32:0EA5E9,66:7C3AED,100:F97316&text=Biswajit%20Sarkar&fontColor=F8FAFC&fontSize=60&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=61&animation=twinkling"
+  />
+
+  <a href="https://github.com/biswajitgitlab">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-biswajitgitlab-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
+  </a>
+  <a href="mailto:biswajitsarkaretce@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
+  </a>
+  <a href="https://linkedin.com/in/biswajitgitlab">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=F97316&label=Profile+Views" />
+
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img
+      alt="Animated typing intro"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=940&height=64&lines=I+design+AI+agents+that+move+real+work;Python+%2B+n8n+%2B+Ollama+%2B+RAG;Laravel+systems+with+clean+automation;From+workflow+chaos+to+reliable+shipping"
+    />
+  </a>
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME — Emoji bullet points + Side-by-side with Top Languages            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/👨‍💻-About%20Me-2196F3?style=for-the-badge&labelColor=000000" alt="About Me" />
-</h3>
+<p align="center">
+  <img alt="Glass divider" width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,35:A78BFA,70:FB7185,100:FBBF24" />
+</p>
 
 <table width="100%">
   <tr>
     <td width="58%" valign="top">
-      <b>🎯 Profession:</b> AI Automation Engineer & Full Stack Developer<br><br>
-      <b>🚀 Focus:</b> Building intelligent AI agents, integrating automated workflows with <b>n8n</b>, and deploying local LLMs utilizing <b>Ollama</b> and <b>RAG</b>.<br><br>
-      <b>💼 Background:</b> Experienced in <b>PHP/Laravel</b> development, expanding strongly into AI-driven automation using <b>Python</b>.<br><br>
-      <b>📚 Currently Learning:</b> Deepening knowledge in advanced AI Agent orchestration and scaling cloud architectures on <b>AWS</b>.<br><br>
-      <b>⚡ Fun Fact:</b> I automate things so I have more time to think about automating more things! 🤖
+      <h2>Glass Console</h2>
+      <p>
+        I build AI automation systems that feel sharp on the surface and reliable underneath:
+        agents, workflow engines, document intelligence, APIs, dashboards, and production-ready
+        full stack applications.
+      </p>
+      <p>
+        My current focus is turning manual business processes into clean, observable automation
+        using <b>Python</b>, <b>n8n</b>, <b>Ollama</b>, <b>RAG</b>, <b>Laravel</b>, and cloud-ready
+        deployment patterns.
+      </p>
+      <p>
+        <img alt="AI agents" src="https://img.shields.io/badge/AI%20Agents-Orchestration-38BDF8?style=flat-square&labelColor=020617" />
+        <img alt="Automation" src="https://img.shields.io/badge/Automation-n8n%20Workflows-FB7185?style=flat-square&labelColor=020617" />
+        <img alt="Local LLM" src="https://img.shields.io/badge/Local%20LLM-Ollama-A78BFA?style=flat-square&labelColor=020617" />
+        <img alt="Backend" src="https://img.shields.io/badge/Backend-Laravel%20%2B%20Python-FBBF24?style=flat-square&labelColor=020617" />
+      </p>
     </td>
-    <td width="4%"></td>
-    <td width="38%" valign="top" align="center">
-      <img src="./images/top_langs.svg" width="100%" alt="Top Languages" />
+    <td width="42%" align="center" valign="middle">
+      <img
+        width="420"
+        alt="Animated developer workspace"
+        src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"
+      />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK — 3-Column Visual Cards with Skill Icons                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img alt="System stack header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,45:111827,100:0EA5E9&text=System%20Stack&fontColor=F8FAFC&fontSize=34&desc=tools%20I%20use%20to%20ship%20AI%20automation%20products&descSize=14&descAlignY=72&animation=fadeIn" />
+</div>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/🛠️-Tech%20Stack%20%26%20Tools-2196F3?style=for-the-badge&labelColor=000000" alt="Tech Stack" />
-</h3>
+<br>
+
+<div align="center">
+  <img
+    alt="Core tools"
+    src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,html,css,tailwind,bootstrap,mysql,postgres,redis,docker,aws,git,github,linux,bash,nginx&theme=dark&perline=10"
+  />
+</div>
+
+<br>
 
 <table width="100%">
   <tr>
-    <!-- Column 1: Languages & Frameworks -->
-    <td width="32%" valign="top" align="center">
-      <table width="100%" bgcolor="#080808" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px;">
-        <tr>
-          <td align="center">
-            <h4>💻 Languages & Frameworks</h4>
-            <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,html,css,bootstrap,tailwind&theme=dark&perline=3" alt="Languages" />
-            <br><br>
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-          </td>
-        </tr>
-      </table>
+    <td width="33%" valign="top">
+      <h3>AI Automation</h3>
+      <p>Agent workflows, n8n pipelines, local LLM tooling, RAG retrieval, prompt routing, and structured extraction.</p>
+      <p>
+        <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=020617" />
+        <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white&labelColor=020617" />
+      </p>
     </td>
-    <td width="2%"></td>
-    <!-- Column 2: AI & Automation -->
-    <td width="32%" valign="top" align="center">
-      <table width="100%" bgcolor="#080808" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px;">
-        <tr>
-          <td align="center">
-            <h4>🤖 AI & Automation</h4>
-            <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark&perline=3" alt="AI Tools" />
-            <br><br>
-            <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-            <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-            <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-square&logo=robot&logoColor=white" alt="RAG" />
-            <img src="https://img.shields.io/badge/AI%20Agents-FF9900?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-            <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-          </td>
-        </tr>
-      </table>
+    <td width="33%" valign="top">
+      <h3>Product Engineering</h3>
+      <p>Laravel applications, API-first backends, MySQL/Postgres data models, queue work, admin panels, and clean UI flows.</p>
+      <p>
+        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=020617" />
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=020617" />
+      </p>
     </td>
-    <td width="2%"></td>
-    <!-- Column 3: DevOps, Testing & Databases -->
-    <td width="32%" valign="top" align="center">
-      <table width="100%" bgcolor="#080808" cellpadding="15" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px;">
-        <tr>
-          <td align="center">
-            <h4>☁️ DevOps, Testing & DBs</h4>
-            <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,nginx,githubactions&theme=dark&perline=3" alt="DevOps" />
-            <br><br>
-            <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-            <img src="https://img.shields.io/badge/PHPUnit-8892BF?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
-            <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-          </td>
-        </tr>
-      </table>
+    <td width="33%" valign="top">
+      <h3>Delivery</h3>
+      <p>Dockerized services, AWS deployment paths, GitHub Actions, Linux servers, test automation, and production debugging.</p>
+      <p>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=020617" />
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=020617" />
+      </p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS — Premium Mockups + Tech tags + Live demo links            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img alt="Selected builds header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,35:7C3AED,70:DB2777,100:F97316&text=Selected%20Builds&fontColor=F8FAFC&fontSize=34&desc=automation%20concepts%2C%20AI%20systems%2C%20and%20full%20stack%20products&descSize=14&descAlignY=72&animation=fadeIn" />
+</div>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/🚀-Featured%20Projects-FF6D5A?style=for-the-badge&labelColor=000000" alt="Featured Projects" />
-</h3>
+<br>
 
 <table width="100%">
-  <!-- Row 1 -->
   <tr>
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCn9UymdwVTBcgjixH0omRih8RZkXty_Xb1LxAXhygoRDBmWKLdIRxPsnj2nHhePW4sPWjsG6KzD09GupgbozgqhHq7z2QSSdg58el7gpkXepi3T31FugZxNYXkmT4-7hyXnlGuvoW57L6vAN6NbabonGd0DVNpG_s4e_a6VIcq_Zw4-xPeoQA6iLNHeNXaXNfMajk2W5XbOsbnVs5D8ACPfZHB9Y3pda-306Huyv3Sa5gkqSk0A5Y6" width="100%" style="object-fit: cover; max-height: 220px;" alt="AI Automated Workflow System" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="15">
-            <h4>🤖 AI Automated Workflow System</h4>
-            <p>Intelligent data extraction and processing pipeline built with n8n, Python, and Ollama for end-to-end automation.</p>
-            <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-              <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-            </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <img width="100%" alt="AI workflow operating system" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:0EA5E9,100:111827&text=AI%20Workflow%20OS&fontColor=F8FAFC&fontSize=24&desc=n8n%20%2B%20Python%20%2B%20Ollama&descSize=13&descAlignY=72" />
+      <p><b>AI Automated Workflow System</b></p>
+      <p>Data extraction and processing pipeline for moving messy inputs into useful, repeatable outputs.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
     </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBwTwY-nT7C4moWUNzthN51CiaQ3pgpXhpY-oD568tjY4gaQft3eE1S16z0lpIUMFzQVigtRl_5cBKyO-YdfUw_FeJO_jDoXp6HFiSDF9DxdLDbro8gggrvz1F_TaDsYmm3aQoF8Y_CbV3lMpTrmYdW8Xrs6IteQ6_t8Ae8NOlv7JvzbqLd2TG9S6hGKBko91GQI2oeKkTOBa3fV7DmFVBGqf22SawAr93op1_21iADxqbYcPdY-16W" width="100%" style="object-fit: cover; max-height: 220px;" alt="RAG Document AI Chatbot" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="15">
-            <h4>📄 RAG Document AI Chatbot</h4>
-            <p>Secure, private document querying using local LLMs with retrieval-augmented generation and vector storage.</p>
-            <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/RAG-2196F3?style=flat-square&logo=robot&logoColor=white" alt="RAG" />
-              <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" />
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-            </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <img width="100%" alt="RAG document intelligence" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:7C3AED,100:111827&text=RAG%20Document%20AI&fontColor=F8FAFC&fontSize=24&desc=private%20search%20%2B%20local%20answers&descSize=13&descAlignY=72" />
+      <p><b>RAG Document AI Chatbot</b></p>
+      <p>Private document querying with local models, retrieval, vector search, and answer grounding.</p>
+      <p>
+        <img alt="RAG" src="https://img.shields.io/badge/RAG-38BDF8?style=flat-square&logo=openai&logoColor=white" />
+        <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" />
+        <img alt="Vector DB" src="https://img.shields.io/badge/Vector%20DB-7C3AED?style=flat-square" />
+      </p>
     </td>
   </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <!-- Row 2 -->
   <tr>
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBwTwY-nT7C4moWUNzthN51CiaQ3pgpXhpY-oD568tjY4gaQft3eE1S16z0lpIUMFzQVigtRl_5cBKyO-YdfUw_FeJO_jDoXp6HFiSDF9DxdLDbro8gggrvz1F_TaDsYmm3aQoF8Y_CbV3lMpTrmYdW8Xrs6IteQ6_t8Ae8NOlv7JvzbqLd2TG9S6hGKBko91GQI2oeKkTOBa3fV7DmFVBGqf22SawAr93op1_21iADxqbYcPdY-16W" width="100%" style="object-fit: cover; max-height: 220px;" alt="Laravel Full Stack App" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="15">
-            <h4>🌐 Full Stack Laravel Application</h4>
-            <p>Production-ready web application with automated end-to-end testing utilizing Playwright and CI/CD pipelines.</p>
-            <p>
-              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-              <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-            </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <img width="100%" alt="Laravel production application" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:FB7185,100:111827&text=Laravel%20Production%20App&fontColor=F8FAFC&fontSize=24&desc=backend%20%2B%20admin%20%2B%20tests&descSize=13&descAlignY=72" />
+      <p><b>Full Stack Laravel Application</b></p>
+      <p>Production-focused web app patterns with auth, dashboards, database design, testing, and CI.</p>
+      <p>
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
     </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#080808" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden;">
-        <tr>
-          <td>
-            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCn9UymdwVTBcgjixH0omRih8RZkXty_Xb1LxAXhygoRDBmWKLdIRxPsnj2nHhePW4sPWjsG6KzD09GupgbozgqhHq7z2QSSdg58el7gpkXepi3T31FugZxNYXkmT4-7hyXnlGuvoW57L6vAN6NbabonGd0DVNpG_s4e_a6VIcq_Zw4-xPeoQA6iLNHeNXaXNfMajk2W5XbOsbnVs5D8ACPfZHB9Y3pda-306Huyv3Sa5gkqSk0A5Y6" width="100%" style="object-fit: cover; max-height: 220px;" alt="AI Agent Orchestration" />
-          </td>
-        </tr>
-        <tr>
-          <td cellpadding="15">
-            <h4>🐳 Containerized AI Agent Orchestration</h4>
-            <p>Scalable multi-agent system integrating Docker, MySQL, and AWS for enterprise-grade data operations.</p>
-            <p>
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-              <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            </p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/▶%20Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
-            </a>
-            &nbsp;
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source Code" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <img width="100%" alt="Cloud agent orchestration" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:F59E0B,100:111827&text=Agent%20Cloud%20Control&fontColor=F8FAFC&fontSize=24&desc=Docker%20%2B%20AWS%20%2B%20workers&descSize=13&descAlignY=72" />
+      <p><b>Containerized AI Agent Orchestration</b></p>
+      <p>Composable services for automated operations, worker queues, deployment, and monitoring.</p>
+      <p>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" />
+      </p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS — Side-by-side with rounded corners                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/📈-GitHub%20Stats-2196F3?style=for-the-badge&labelColor=000000" alt="GitHub Stats" />
-</h3>
-
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="48%" align="center">
-        <a href="https://github.com/biswajitgitlab">
-          <img src="./images/github_stats.svg" width="100%" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td width="4%"></td>
-      <td width="48%" align="center">
-        <a href="https://github.com/biswajitgitlab">
-          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&background=0D1117&border_radius=12" width="100%" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img alt="Animated development accent" width="650" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" />
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE ANIMATION                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/🐍-Contribution%20Snake-2196F3?style=for-the-badge&labelColor=000000" alt="Contribution Snake" />
-</h3>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
-  </picture>
+  <img alt="GitHub signal header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,50:0F172A,100:14B8A6&text=GitHub%20Signal&fontColor=F8FAFC&fontSize=34&desc=live%20stats%20with%20a%20dark%20glass%20feel&descSize=14&descAlignY=72&animation=fadeIn" />
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT — Social icons in centered row                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/📫-Let's%20Connect-2196F3?style=for-the-badge&labelColor=000000" alt="Let's Connect" />
-</h3>
-
 <div align="center">
-  <table cellpadding="5" cellspacing="0" border="0">
-    <tr>
-      <td>
-        <a href="https://linkedin.com/in/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:biswajitsarkaretce@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
-        </a>
-      </td>
-      <td>
-        <a href="https://twitter.com/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="https://dev.to/biswajitgitlab" target="_blank">
-          <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000" alt="Dev.to" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img
+    width="96%"
+    alt="GitHub trophies"
+    src="https://github-profile-trophy.vercel.app/?username=biswajitgitlab&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
+  />
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER — Profile Views + Gradient Closing Banner                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        alt="Biswajit's GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=biswajitgitlab&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&icon_color=FB7185"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        alt="Biswajit's top languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajitgitlab&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1"
+      />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=2196F3&label=Profile%20Views" alt="Profile Views" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6D5A,50:000000,100:2196F3&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer Gradient" />
+  <img
+    width="96%"
+    alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=github-dark-blue&hide_border=true&background=00000000&ring=38BDF8&fire=FB7185&currStreakLabel=CBD5E1"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="96%"
+    alt="GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=biswajitgitlab&theme=react-dark&hide_border=true&bg_color=020617&color=CBD5E1&title_color=38BDF8&line=FB7185&point=F8FAFC&area=true&area_color=0EA5E9"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img alt="Collaboration header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,45:0EA5E9,100:7C3AED&text=Open%20to%20Build&fontColor=F8FAFC&fontSize=34&desc=automation%20products%2C%20AI%20agents%2C%20dashboards%2C%20and%20backend%20systems&descSize=14&descAlignY=72&animation=fadeIn" />
+</div>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>Workflow audits</b><br>Find manual work worth automating</td>
+    <td width="25%" align="center"><b>AI prototypes</b><br>Move from idea to usable agent</td>
+    <td width="25%" align="center"><b>Laravel builds</b><br>Ship admin tools and APIs</td>
+    <td width="25%" align="center"><b>Cloud delivery</b><br>Package, deploy, and monitor</td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <a href="mailto:biswajitsarkaretce@gmail.com">
+    <img alt="Email Biswajit" src="https://img.shields.io/badge/Email-biswajitsarkaretce%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
+  </a>
+  <a href="https://github.com/biswajitgitlab">
+    <img alt="GitHub Biswajit" src="https://img.shields.io/badge/GitHub-biswajitgitlab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
+  </a>
+  <a href="https://linkedin.com/in/biswajitgitlab">
+    <img alt="LinkedIn Biswajit" src="https://img.shields.io/badge/LinkedIn-biswajitgitlab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
+  </a>
+  <a href="https://dev.to/biswajitgitlab">
+    <img alt="Dev.to Biswajit" src="https://img.shields.io/badge/Dev.to-biswajitgitlab-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=020617" />
+  </a>
+</div>
+
+<div align="center">
+  <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:F97316,35:7C3AED,70:0EA5E9,100:020617" />
 </div>
