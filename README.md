@@ -295,7 +295,7 @@
       <td width="4%"></td>
       <td width="48%" align="center">
         <a href="https://github.com/biswajitgitlab">
-          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&background=000000&border_radius=12" width="100%" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=biswajitgitlab&theme=dark&hide_border=true&title_color=2196F3&text_color=c9d1d9&background=0D1117&border_radius=12" width="100%" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
