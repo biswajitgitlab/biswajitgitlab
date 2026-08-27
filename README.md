@@ -260,13 +260,21 @@
   </tr>
 </table>
 
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/🐍_Contribution_Graph-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Contribution Snake"/>
+</h3>
+
 <div align="center">
-  <img
-    width="96%"
-    alt="GitHub streak"
-    src="./images/github_streak.svg"
-  />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+</picture>
 </div>
+
+<br/>
 
 <br>
 
