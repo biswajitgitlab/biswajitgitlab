@@ -225,6 +225,93 @@
       </p>
     </td>
   </tr>
+  <tr>
+
+<td width="48%" valign="top">
+<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+<tr><td>
+
+**🏛️ National Apprenticeship ERP — CI3 → CI4 Migration**
+
+Migrating a large-scale CodeIgniter 3 ERP (thousand-line controllers for establishment management, reconciliation, and contract generation) to CI4, deployed through GitLab CI/CD onto AWS ECS Fargate with Docker.
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
+
+</td></tr>
+</table>
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+<tr><td>
+
+**🤖 AI-Orchestrated Apprentice Onboarding**
+
+Webhook-driven n8n pipeline coordinating a Playwright browser agent through an 8-stage government portal flow (registration → eKYC → bank details → Aadhaar seeding), backed by a self-hosted Qwen2.5 model for document validation.
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qwen2.5-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
+
+</td></tr>
+</table>
+</td>
+
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+
+<td width="48%" valign="top">
+<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+<tr><td>
+
+**📑 TPA Contract Orchestrator**
+
+Poll-based state machine driving a Playwright agent against the national apprenticeship portal — handling session management, human-in-the-loop CAPTCHA/OTP, and batch contract generation at scale.
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
+
+</td></tr>
+</table>
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+<tr><td>
+
+**🧾 Automated Invoice Processing Pipeline**
+
+Multi-workflow system: Gmail/webhook intake → S3 storage → OCR + vision-LLM extraction → MySQL duplicate detection → Slack notifications, split into clean intake/processing workflow pairs.
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
+
+</td></tr>
+</table>
+</td>
+
+</tr>
 </table>
 
 <br>
