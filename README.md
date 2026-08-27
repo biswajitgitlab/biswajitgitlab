@@ -14,10 +14,16 @@
   <img
     width="100%"
     alt="Biswajit Sarkar - AI Automation Engineer and Full Stack Developer"
-    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:020617,40:0F172A,80:1E1B4B,100:020617&text=Biswajit%20Sarkar&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=AI%20Automation%20Engineer%20and%20Full%20Stack%20Developer&descColor=38BDF8&descSize=19&descAlignY=62&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0F172A,80:1E1B4B,100:020617&text=Biswajit%20Sarkar&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descColor=38BDF8&descSize=20&descAlignY=62"
   />
 
-  <h2 align="center"><font color="#38BDF8">Biswajit Sarkar</font> — <font color="#F8FAFC">AI Automation Engineer & Full Stack Developer</font></h2>
+  <h1 align="center">Biswajit Sarkar</h1>
+  <p align="center">
+    <code><b>🤖 AI Automation Engineer</b></code>
+    &nbsp;&bull;&nbsp;
+    <code><b>⚡ Full Stack Developer</b></code>
+  </p>
+  <br>
 
   <a href="https://github.com/biswajitgitlab">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-biswajitgitlab-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
