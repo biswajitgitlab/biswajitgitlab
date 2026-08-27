@@ -14,7 +14,7 @@
   <img
     width="100%"
     alt="Biswajit Sarkar - AI Automation Engineer and Full Stack Developer"
-    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030712,32:0EA5E9,66:7C3AED,100:F97316&text=Biswajit%20Sarkar&fontColor=F8FAFC&fontSize=60&fontAlignY=38&desc=AI%20Automation%20Engineer%20and%20Full%20Stack%20Developer&descSize=18&descAlignY=61&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030712,32:0EA5E9,66:7C3AED,100:F97316&text=Biswajit%20Sarkar&fontColor=F8FAFC&fontSize=60&fontAlignY=38&desc=AI%20Automation%20Engineer%20%26%20Full%20Stack%20Developer&descAlign=62&descAlignY=75"
   />
 
   <h2>Biswajit Sarkar - AI Automation Engineer and Full Stack Developer</h2>
@@ -35,7 +35,7 @@
   <a href="https://git.io/typing-svg">
     <img
       alt="Animated typing intro"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=940&height=64&lines=I+design+AI+agents+that+move+real+work;Python+%2B+n8n+%2B+Ollama+%2B+RAG;Laravel+systems+with+clean+automation;From+workflow+chaos+to+reliable+shipping"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=940&height=64&lines=I+design+AI+agents+that+move+messy+data;I+build+n8n+workflows+at+scale;I+ship+Laravel+apps+with+confidence;I+deploy+to+AWS+like+a+pro"
     />
   </a>
 </div>
@@ -78,7 +78,7 @@
 <br>
 
 <div align="center">
-  <img alt="System stack header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,45:111827,100:0EA5E9&text=System%20Stack&fontColor=F8FAFC&fontSize=34&desc=tools%20I%20use%20to%20ship%20AI%20automation%20products&descSize=14&descAlignY=72&animation=fadeIn" />
+  <img alt="System stack header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,45:111827,100:0EA5E9&text=System%20Stack&fontColor=F8FAFC&fontSize=34&de" />
 </div>
 
 <br>
@@ -93,7 +93,7 @@
 <br>
 
 <div align="center">
-  <img alt="Tech stack in motion header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=0:020617,35:0EA5E9,70:7C3AED,100:F97316&text=Tech%20Stack%20in%20Motion&fontColor=F8FAFC&fontSize=30&desc=animated%20tools%2C%20platforms%2C%20and%20social%20signals&descSize=13&descAlignY=72&animation=fadeIn" />
+  <img alt="Tech stack in motion header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=0:020617,35:0EA5E9,70:7C3AED,100:F97316&text=Tech%20Stack%20in%20Motion&f" />
 </div>
 
 <br>
@@ -175,7 +175,7 @@
 <br>
 
 <div align="center">
-  <img alt="Selected builds header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,35:7C3AED,70:DB2777,100:F97316&text=Selected%20Builds&fontColor=F8FAFC&fontSize=34&desc=automation%20concepts%2C%20AI%20systems%2C%20and%20full%20stack%20products&descSize=14&descAlignY=72&animation=fadeIn" />
+  <img alt="Selected builds header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,35:7C3AED,70:DB2777,100:F97316&text=Selected%20Builds&fontColor=F8FAF" />
 </div>
 
 <br>
@@ -183,7 +183,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" alt="AI workflow operating system" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:0EA5E9,100:111827&text=AI%20Workflow%20OS&fontColor=F8FAFC&fontSize=24&desc=n8n%20%2B%20Python%20%2B%20Ollama&descSize=13&descAlignY=72" />
+      <img width="100%" alt="AI workflow operating system" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:0EA5E9,100:111827&text=AI%20Workflow%20OS&fontColor=F8FA" />
       <p><b>AI Automated Workflow System</b></p>
       <p>Data extraction and processing pipeline for moving messy inputs into useful, repeatable outputs.</p>
       <p>
@@ -193,7 +193,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img width="100%" alt="RAG document intelligence" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:7C3AED,100:111827&text=RAG%20Document%20AI&fontColor=F8FAFC&fontSize=24&desc=private%20search%20%2B%20local%20answers&descSize=13&descAlignY=72" />
+      <img width="100%" alt="RAG document intelligence" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:7C3AED,100:111827&text=RAG%20Document%20AI&fontColor=F8FAFC" />
       <p><b>RAG Document AI Chatbot</b></p>
       <p>Private document querying with local models, retrieval, vector search, and answer grounding.</p>
       <p>
@@ -205,7 +205,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" alt="Laravel production application" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:FB7185,100:111827&text=Laravel%20Production%20App&fontColor=F8FAFC&fontSize=24&desc=backend%20%2B%20admin%20%2B%20tests&descSize=13&descAlignY=72" />
+      <img width="100%" alt="Laravel production application" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:FB7185,100:111827&text=Laravel%20Production%20App&fontColor=F8FAFC" />
       <p><b>Full Stack Laravel Application</b></p>
       <p>Production-focused web app patterns with auth, dashboards, database design, testing, and CI.</p>
       <p>
@@ -215,7 +215,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img width="100%" alt="Cloud agent orchestration" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:F59E0B,100:111827&text=Agent%20Cloud%20Control&fontColor=F8FAFC&fontSize=24&desc=Docker%20%2B%20AWS%20%2B%20workers&descSize=13&descAlignY=72" />
+      <img width="100%" alt="Cloud agent orchestration" src="https://capsule-render.vercel.app/api?type=rounded&height=135&color=0:020617,55:F59E0B,100:111827&text=Agent%20Cloud%20Control&fontColor=F8FAFC" />
       <p><b>Containerized AI Agent Orchestration</b></p>
       <p>Composable services for automated operations, worker queues, deployment, and monitoring.</p>
       <p>
@@ -226,92 +226,79 @@
     </td>
   </tr>
   <tr>
-
-<td width="48%" valign="top">
-<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
-<tr><td>
-
-**🏛️ National Apprenticeship ERP — CI3 → CI4 Migration**
-
-Migrating a large-scale CodeIgniter 3 ERP (thousand-line controllers for establishment management, reconciliation, and contract generation) to CI4, deployed through GitLab CI/CD onto AWS ECS Fargate with Docker.
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
-
-</td></tr>
-</table>
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
-<tr><td>
-
-**🤖 AI-Orchestrated Apprentice Onboarding**
-
-Webhook-driven n8n pipeline coordinating a Playwright browser agent through an 8-stage government portal flow (registration → eKYC → bank details → Aadhaar seeding), backed by a self-hosted Qwen2.5 model for document validation.
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qwen2.5-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
-
-</td></tr>
-</table>
-</td>
-
-</tr>
-<tr><td colspan="3"><br/></td></tr>
-<tr>
-
-<td width="48%" valign="top">
-<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
-<tr><td>
-
-**📑 TPA Contract Orchestrator**
-
-Poll-based state machine driving a Playwright agent against the national apprenticeship portal — handling session management, human-in-the-loop CAPTCHA/OTP, and batch contract generation at scale.
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
-
-</td></tr>
-</table>
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-<table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
-<tr><td>
-
-**🧾 Automated Invoice Processing Pipeline**
-
-Multi-workflow system: Gmail/webhook intake → S3 storage → OCR + vision-LLM extraction → MySQL duplicate detection → Slack notifications, split into clean intake/processing workflow pairs.
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenRouter-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/>
-
-</td></tr>
-</table>
-</td>
-
-</tr>
+    <td width="48%" valign="top">
+      <table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+        <tr>
+          <td>
+            <b>🏛️ National Apprenticeship ERP — CI3 → CI4 Migration</b>
+            <p>Migrating a large-scale CodeIgniter 3 ERP (thousand-line controllers for establishment management, reconciliation, and contract generation) to CI4, deployed through GitLab CI/CD onto AWS ECS Fargate.</p>
+            <p>
+              <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+              <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+              <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+            </p>
+            <p><img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+        <tr>
+          <td>
+            <b>🤖 AI-Orchestrated Apprentice Onboarding</b>
+            <p>Webhook-driven n8n pipeline coordinating a Playwright browser agent through an 8-stage government portal flow (registration → eKYC → bank details → Aadhaar seeding), backed by a self-hosted Qwen2.5 model.</p>
+            <p>
+              <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Qwen2.5-8B5CF6?style=flat-square"/>
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            </p>
+            <p><img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="top">
+      <table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+        <tr>
+          <td>
+            <b>📑 TPA Contract Orchestrator</b>
+            <p>Poll-based state machine driving a Playwright agent against the national apprenticeship portal — handling session management, human-in-the-loop CAPTCHA/OTP, and batch contract generation at scale.</p>
+            <p>
+              <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+              <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+              <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+            </p>
+            <p><img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <table width="100%" bgcolor="#0a0e1a" cellpadding="16" style="border:1px solid #2a2f45;border-radius:12px;">
+        <tr>
+          <td>
+            <b>🧾 Automated Invoice Processing Pipeline</b>
+            <p>Multi-workflow system: Gmail/webhook intake → S3 storage → OCR + vision-LLM extraction → MySQL duplicate detection → Slack notifications, split into clean intake/processing workflow pairs.</p>
+            <p>
+              <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+              <img src="https://img.shields.io/badge/OpenRouter-8b5cf6?style=flat-square"/>
+              <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+            </p>
+            <p><img src="https://img.shields.io/badge/🔒_Private_Enterprise_System-0d1117?style=flat-square&labelColor=161b22"/></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -323,7 +310,7 @@ Multi-workflow system: Gmail/webhook intake → S3 storage → OCR + vision-LLM 
 <br>
 
 <div align="center">
-  <img alt="GitHub signal header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,50:0F172A,100:14B8A6&text=GitHub%20Signal&fontColor=F8FAFC&fontSize=34&desc=live%20stats%20with%20a%20dark%20glass%20feel&descSize=14&descAlignY=72&animation=fadeIn" />
+  <img alt="GitHub signal header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,50:0F172A,100:14B8A6&text=GitHub%20Signal&fontColor=F8FAFC&fontSize=34" />
 </div>
 
 <br>
@@ -348,7 +335,7 @@ Multi-workflow system: Gmail/webhook intake → S3 storage → OCR + vision-LLM 
 </table>
 
 <!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/🐍_Contribution_Graph-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Contribution Snake"/>
@@ -366,7 +353,7 @@ Multi-workflow system: Gmail/webhook intake → S3 storage → OCR + vision-LLM 
 <br>
 
 <div align="center">
-  <img alt="Collaboration header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,45:0EA5E9,100:7C3AED&text=Open%20to%20Build&fontColor=F8FAFC&fontSize=34&desc=automation%20products%2C%20AI%20agents%2C%20dashboards%2C%20and%20backend%20systems&descSize=14&descAlignY=72&animation=fadeIn" />
+  <img alt="Collaboration header" width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,45:0EA5E9,100:7C3AED&text=Open%20to%20Build&fontColor=F8FAFC&fontSize=34" />
 </div>
 
 <br>
