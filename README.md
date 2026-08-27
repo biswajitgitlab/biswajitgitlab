@@ -14,10 +14,10 @@
   <img
     width="100%"
     alt="Biswajit Sarkar - AI Automation Engineer and Full Stack Developer"
-    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030712,32:0EA5E9,66:7C3AED,100:F97316&text=Biswajit%20Sarkar&fontColor=F8FAFC&fontSize=60&fontAlignY=38&desc=AI%20Automation%20Engineer%20and%20Full%20Stack%20Developer&descSize=18&descAlignY=61&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:020617,40:0F172A,80:1E1B4B,100:020617&text=Biswajit%20Sarkar&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=AI%20Automation%20Engineer%20and%20Full%20Stack%20Developer&descColor=38BDF8&descSize=19&descAlignY=62&animation=twinkling"
   />
 
-  <h2>Biswajit Sarkar - AI Automation Engineer and Full Stack Developer</h2>
+  <h2 align="center"><font color="#38BDF8">Biswajit Sarkar</font> — <font color="#F8FAFC">AI Automation Engineer & Full Stack Developer</font></h2>
 
   <a href="https://github.com/biswajitgitlab">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-biswajitgitlab-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
