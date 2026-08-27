@@ -31,7 +31,7 @@
   <a href="mailto:biswajitsarkaretce@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://linkedin.com/in/biswajitgitlab">
+  <a href="https://linkedin.com/in/biswajit-sarkar-developer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=F97316&label=Profile+Views" />
@@ -352,8 +352,8 @@
   <a href="https://github.com/biswajitgitlab">
     <img alt="GitHub Biswajit" src="https://img.shields.io/badge/GitHub-biswajitgitlab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://linkedin.com/in/biswajitgitlab">
-    <img alt="LinkedIn Biswajit" src="https://img.shields.io/badge/LinkedIn-biswajitgitlab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
+  <a href="https://linkedin.com/in/biswajit-sarkar-developer">
+    <img alt="LinkedIn Biswajit" src="https://img.shields.io/badge/LinkedIn-biswajit--sarkar--developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
 </div>
 
