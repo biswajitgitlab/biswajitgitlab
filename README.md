@@ -286,6 +286,9 @@
 </table>
 
 <br>
+<h3 align="center">
+<img src="https://img.shields.io/badge/📫_Let's_Connect-0d1117?style=for-the-badge&labelColor=f472b6" alt="Let's Connect"/>
+</h3>
 
 <div align="center">
   <a href="mailto:biswajitsarkaretce@gmail.com">
