@@ -25,13 +25,13 @@
 
   <!-- Connect & Social Badges -->
   <p align="center">
-    <a href="https://github.com/biswajitgitlab">
+    <a href="https://github.com/biswajitgitlab" aria-label="GitHub Profile (biswajitgitlab)">
       <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-biswajitgitlab-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
     </a>
-    <a href="mailto:biswajitsarkaretce@gmail.com">
+    <a href="mailto:biswajitsarkaretce@gmail.com" aria-label="Send Email to biswajitsarkaretce@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
     </a>
-    <a href="https://linkedin.com/in/biswajit-sarkar-developer">
+    <a href="https://linkedin.com/in/biswajit-sarkar-developer" aria-label="LinkedIn Profile (biswajit-sarkar-developer)">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
     </a>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=biswajitgitlab&style=for-the-badge&color=F97316&label=Profile+Views" />
@@ -373,33 +373,33 @@
 </h3>
 
 <!-- Animated Floating Social Icons -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="40" alt="Social animated 1" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="40" alt="Social animated 2" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40" alt="Social animated 3" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="40" alt="Social animated 4" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="40" alt="Social animated 5" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40" alt="Social animated 6" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="40" alt="Social animated 7" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" alt="Social animated 8" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" alt="Social animated 9" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" alt="Social animated 10" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40" alt="Social animated 11" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="40" alt="Social animated 12" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40" alt="Social animated 13" />
+<div align="center" aria-hidden="true">
+  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40" alt="" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="40" alt="" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40" alt="" />
 </div>
 
 <br>
 
 <!-- Contact Badges -->
 <div align="center">
-  <a href="mailto:biswajitsarkaretce@gmail.com">
+  <a href="mailto:biswajitsarkaretce@gmail.com" aria-label="Send Email to biswajitsarkaretce@gmail.com">
     <img alt="Email Biswajit" src="https://img.shields.io/badge/Email-biswajitsarkaretce%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://github.com/biswajitgitlab">
+  <a href="https://github.com/biswajitgitlab" aria-label="GitHub Profile (biswajitgitlab)">
     <img alt="GitHub Biswajit" src="https://img.shields.io/badge/GitHub-biswajitgitlab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://linkedin.com/in/biswajit-sarkar-developer">
+  <a href="https://linkedin.com/in/biswajit-sarkar-developer" aria-label="LinkedIn Profile (biswajit-sarkar-developer)">
     <img alt="LinkedIn Biswajit" src="https://img.shields.io/badge/LinkedIn-biswajit--sarkar--developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
 </div>
